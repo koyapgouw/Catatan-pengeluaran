@@ -2,3 +2,8 @@ streamlit
 pandas
 altair
 openpyxl
+streamlit
+pandas
+altair
+openpyxl
+xlsxwriter
